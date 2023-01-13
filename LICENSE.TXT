@@ -1,0 +1,48 @@
+acm-agent-provisioners (Licensed Product) and all its components are protected by 
+copyright, and are distributed under the following terms.  
+  
+acm-agent-provisioners, developed and copyrighted by Agile Cloud Institute Incorporated 
+(Agile Cloud Institute) is intended to provide examples of provisioning scripts 
+for servers running Agile Cloud Institute's Agile Cloud Manager app.  
+  
+Since acm-agent-provisioners is open source and free of licensing fees, you are free to use, 
+modify, and distribute the source code, as long as you include this copyright statement, 
+and as long as you do not use it to create a competing product.  
+  
+In particular, you can use acm-agent-provisioners to 
+build proprietary software and are under no obligation to redistribute any of your 
+source code that is built using acm-agent-provisioners.  Note however, that you 
+may not do anything to the acm-agent-provisioners code, such as copyrighting it 
+yourself or claiming authorship of acm-agent-provisioners, that will prevent 
+acm-agent-provisioners from being distributed freely using an open source 
+development model.  
+  
+Warranty  
+  
+LICENSED PRODUCT IS PROVIDED AS IS WITH NO WARRANTIES OF ANY KIND
+INCLUDING THE WARRANTIES OF DESIGN, MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ARISING FROM A COURSE OF
+DEALING, USAGE OR TRADE PRACTICE.  
+  
+Support  
+  
+LICENSED PRODUCT IS PROVIDED WITH NO SUPPORT AND WITHOUT ANY
+OBLIGATION ON THE PART OF AGILE CLOUD INSTITUTE OR ANY OF ITS SUBSIDIARIES 
+OR AFFILIATES TO ASSIST IN ITS USE, CORRECTION, MODIFICATION OR ENHANCEMENT.  
+  
+Support may be available from Agile Cloud Institute to users who have agreed to a
+support contract.  
+  
+Liability  
+  
+AGILE CLOUD INSTITUTE OR ANY OF ITS SUBSIDIARIES OR AFFILIATES SHALL HAVE NO LIABILITY
+WITH RESPECT TO THE INFRINGEMENT OF COPYRIGHTS, TRADE SECRETS OR ANY
+PATENTS BY LICENSED PRODUCT OR ANY PART THEREOF.  
+  
+IN NO EVENT WILL AGILE CLOUD INSTITUTE OR ANY OF ITS SUBSIDIARIES OR AFFILIATES BE
+LIABLE FOR ANY LOST REVENUE OR PROFITS OR OTHER SPECIAL, INDIRECT AND
+CONSEQUENTIAL DAMAGES, EVEN IF AGILE CLOUD INSTITUTE HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.  
+  
+acm-agent-provisioners copyright Agile Cloud Institute. Placerville CA USA, 2023.  
+https://AgileCloudInstitute.io
