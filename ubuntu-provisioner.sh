@@ -32,4 +32,3 @@ python3 --version
 python --version
 
 echo 'then--------------------------------'
-sudo apt-get install -y dos2unix
